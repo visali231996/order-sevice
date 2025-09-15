@@ -1,4 +1,4 @@
-package api
+package appis
 
 import (
 	"database/sql"
