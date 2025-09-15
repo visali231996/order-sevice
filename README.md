@@ -1,4 +1,14 @@
+
 # order-sevice
+i have created Order service with these inputs
+    Id          
+	Customer_Name 
+	PaymentMethod 
+	PlacedOnDate  
+	DeliveredOn   
+	Item          
+	Address       
+	Amount 
 
 
 how to add file withoutr main as branch
@@ -15,3 +25,5 @@ type : git branch
       create pull request
 
       merge that pull request into folder
+![alt text](<image 3.png>)
+
